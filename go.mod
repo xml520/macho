@@ -1,4 +1,4 @@
-module github.com/blacktop/go-macho
+module github.com/xml520/macho
 
 go 1.19
 
